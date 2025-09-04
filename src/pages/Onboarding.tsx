@@ -362,7 +362,7 @@ export const Onboarding: React.FC = () => {
                 Настройка завершена!
               </h3>
               <p className="text-sm text-gray-600">
-                Все готово для начала работы с AI Финансовый директор
+                Все готово для начала работы с AI CFO Assistant
               </p>
             </div>
 
@@ -394,7 +394,7 @@ export const Onboarding: React.FC = () => {
           <div className="flex items-center justify-between mb-4">
             <div className="flex-1"></div>
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">AI Финансовый директор</h1>
+              <h1 className="text-3xl font-bold text-gray-900">AI CFO Assistant</h1>
               <p className="mt-2 text-lg text-gray-600">
                 {hasData() ? 'Перенастройка финансового ассистента' : 'Добро пожаловать! Настроим ваш финансовый ассистент'}
               </p>
